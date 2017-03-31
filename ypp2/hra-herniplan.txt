@@ -1,0 +1,10 @@
+(defvar *gamedef*
+ (list
+  (list "Vitejte ve hre"  5 (list 1 "Jit do mistn 1" 2 "Jit do mistn 2"))
+  (list "Mistnost 1"     -1 (list 3 "Jit do mistn 3" 4 "Jit do mistn 4"))
+  (list "Mistnost 2"      0 (list 3 "Jit do mistn 3" 5 "Jit do mistn 5"))
+  (list "Mistnost 3"     -1 (list 1 "Jit do mistn 1" 5 "Jit do mistn 5"))
+  (list "Mistnost 4"      0 (list 1 "Jit do mistn 1" 5 "Jit do mistn 5"))
+  (list "The end"         0 nil)
+ )
+)

@@ -1,0 +1,26 @@
+
+CL-USER 3 > (start)
+Jste na prahu temné místnosti. Počet životů: 5. Co uděláte?
+
+1. Zašmátráte rukou po zdi a zkusíte nahmatat vypínač.
+2. Uděláte krok do tmy.
+
+(Volbu x vyberete zavoláním (choose x))
+NIL
+
+CL-USER 4 > (choose 1)
+Po zdi lezla velká tarantule a kousla vás! Připravilo vás to o život. Naštěstí vám ještě nějaké zbývají, a tak se stále můžete pokoušet zachránit svět. Počet životů: 4. Co uděláte?
+
+1. Zašmátráte znovu rukou po zdi.
+2. Uděláte krok do tmy.
+
+(Volbu x vyberete zavoláním (choose x))
+NIL
+
+CL-USER 5 > (choose 2)
+Propadli jste otevřeným poklopem do sklepa a zlomili si nohu, ruku a žebro. Z téhle situace se už nedostanete.
+
+KONEC HRY
+NIL
+
+CL-USER 6 > 
