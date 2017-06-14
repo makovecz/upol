@@ -16,9 +16,9 @@
 
 ; Semafor
 (defclass semaphore (picture) 
-  ((lights :initform (make-instance 'picture))
-   (semaphore-phase :initform 0)))
-
+  (
+   (semaphore-phase :initform 0))
+  )
 
 (defun make-light (on-color off-color radius in)
   (let ((l (make-instance 'light)))
